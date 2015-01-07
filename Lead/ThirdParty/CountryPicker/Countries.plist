@@ -1,0 +1,494 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AC+247</key>
+	<string>Ascension Island</string>
+	<key>AD+376</key>
+	<string>Andorra</string>
+	<key>AE+971</key>
+	<string>United Arab Emirates</string>
+	<key>AF+93</key>
+	<string>Afghanistan</string>
+	<key>AG+1268</key>
+	<string>Antigua</string>
+	<key>AI+1264</key>
+	<string>Anguilla</string>
+	<key>AL+355</key>
+	<string>Albania</string>
+	<key>AN+599</key>
+	<string>Netherlands Antilles</string>
+	<key>AO+244</key>
+	<string>Angola</string>
+	<key>AQ+672</key>
+	<string>Antarctica</string>
+	<key>AR+54</key>
+	<string>Argentina</string>
+	<key>AS+1684</key>
+	<string>American Samoa</string>
+	<key>AT+43</key>
+	<string>Austria</string>
+	<key>AU+61</key>
+	<string>Australia</string>
+	<key>AW+297</key>
+	<string>Aruba</string>
+	<key>AX+358</key>
+	<string>Aland Islands</string>
+	<key>AZ+994</key>
+	<string>Azerbaijan</string>
+	<key>BA+387</key>
+	<string>Bosnia</string>
+	<key>BB+1246</key>
+	<string>Barbados</string>
+	<key>BD+880</key>
+	<string>Bangladesh</string>
+	<key>BE+32</key>
+	<string>Belgium</string>
+	<key>BF+226</key>
+	<string>Burkina Faso</string>
+	<key>BG+359</key>
+	<string>Bulgaria</string>
+	<key>BH+973</key>
+	<string>Bahrain</string>
+	<key>BI+257</key>
+	<string>Burundi</string>
+	<key>BJ+229</key>
+	<string>Benin</string>
+	<key>BM+1441</key>
+	<string>Bermuda</string>
+	<key>BN+673</key>
+	<string>Brunei Darussalam</string>
+	<key>BO+591</key>
+	<string>Bolivia</string>
+	<key>BR+55</key>
+	<string>Brazil</string>
+	<key>BS+1242</key>
+	<string>Bahamas</string>
+	<key>BT+975</key>
+	<string>Bhutan</string>
+	<key>BW+267</key>
+	<string>Botswana</string>
+	<key>BY+375</key>
+	<string>Belarus</string>
+	<key>BZ+501</key>
+	<string>Belize</string>
+	<key>CA+1</key>
+	<string>Canada</string>
+	<key>CC+61</key>
+	<string>Cocos Islands</string>
+	<key>CD+243</key>
+	<string>Congo, Democratic Republic</string>
+	<key>CF+236</key>
+	<string>Central African Republic</string>
+	<key>CG+242</key>
+	<string>Congo</string>
+	<key>CH+41</key>
+	<string>Switzerland</string>
+	<key>CI+225</key>
+	<string>Cote D&apos;Ivoire </string>
+	<key>CK+682</key>
+	<string>Cook Islands</string>
+	<key>CL+56</key>
+	<string>Chile</string>
+	<key>CM+237</key>
+	<string>Cameroon</string>
+	<key>CN+86</key>
+	<string>China</string>
+	<key>CO+57</key>
+	<string>Colombia</string>
+	<key>CR+506</key>
+	<string>Costa Rica</string>
+	<key>CU+53</key>
+	<string>Cuba</string>
+	<key>CV+238</key>
+	<string>Cape Verde</string>
+	<key>CX+61</key>
+	<string>Christmas Island</string>
+	<key>CY+357</key>
+	<string>Cyprus</string>
+	<key>CZ+420</key>
+	<string>Czech Republic</string>
+	<key>DE+49</key>
+	<string>Germany</string>
+	<key>DJ+253</key>
+	<string>Djibouti</string>
+	<key>DK+45</key>
+	<string>Denmark</string>
+	<key>DM+1767</key>
+	<string>Dominica</string>
+	<key>DO+1</key>
+	<string>Dominican Republic</string>
+	<key>DZ+213</key>
+	<string>Algeria</string>
+	<key>EC+593</key>
+	<string>Ecuador</string>
+	<key>EE+372</key>
+	<string>Estonia</string>
+	<key>EG+20</key>
+	<string>Egypt</string>
+	<key>EH+212</key>
+	<string>Western Sahara</string>
+	<key>ER+291</key>
+	<string>Eritrea</string>
+	<key>ES+34</key>
+	<string>Spain</string>
+	<key>ET+251</key>
+	<string>Ethiopia</string>
+	<key>FI+358</key>
+	<string>Finland</string>
+	<key>FJ+679</key>
+	<string>Fiji</string>
+	<key>FK+500</key>
+	<string>Falkland Islands </string>
+	<key>FM+691</key>
+	<string>Micronesia</string>
+	<key>FO+298</key>
+	<string>Faroe Islands</string>
+	<key>FR+33</key>
+	<string>France</string>
+	<key>GA+241</key>
+	<string>Gabon</string>
+	<key>GB+44</key>
+	<string>United Kingdom</string>
+	<key>GD+1473</key>
+	<string>Grenada</string>
+	<key>GE+995</key>
+	<string>Georgia</string>
+	<key>GF+594</key>
+	<string>French Guiana</string>
+	<key>GG+44</key>
+	<string>Guernsey</string>
+	<key>GH+233</key>
+	<string>Ghana</string>
+	<key>GI+350</key>
+	<string>Gibraltar</string>
+	<key>GL+299</key>
+	<string>Greenland</string>
+	<key>GM+220</key>
+	<string>Gambia</string>
+	<key>GN+224</key>
+	<string>Guinea</string>
+	<key>GP+590</key>
+	<string>Guadeloupe</string>
+	<key>GQ+240</key>
+	<string>Equatorial Guinea</string>
+	<key>GR+30</key>
+	<string>Greece</string>
+	<key>GT+502</key>
+	<string>Guatemala</string>
+	<key>GU+1671</key>
+	<string>Guam</string>
+	<key>GW+245</key>
+	<string>Guinea-Bissau</string>
+	<key>GY+592</key>
+	<string>Guyana</string>
+	<key>HK+852</key>
+	<string>Hong Kong</string>
+	<key>HN+504</key>
+	<string>Honduras</string>
+	<key>HR+385</key>
+	<string>Croatia</string>
+	<key>HT+509</key>
+	<string>Haiti</string>
+	<key>HU+36</key>
+	<string>Hungary</string>
+	<key>ID+62</key>
+	<string>Indonesia</string>
+	<key>IE+353</key>
+	<string>Ireland</string>
+	<key>IL+972</key>
+	<string>Israel</string>
+	<key>IM+44</key>
+	<string>Isle of Man</string>
+	<key>IN+91</key>
+	<string>India</string>
+	<key>IO+246</key>
+	<string>British Indian Ocean Territory</string>
+	<key>IQ+964</key>
+	<string>Iraq</string>
+	<key>IR+98</key>
+	<string>Iran</string>
+	<key>IS+354</key>
+	<string>Iceland</string>
+	<key>IT+39</key>
+	<string>Italy</string>
+	<key>JE+44</key>
+	<string>Jersey</string>
+	<key>JM+1876</key>
+	<string>Jamaica</string>
+	<key>JO+962</key>
+	<string>Jordan</string>
+	<key>JP+81</key>
+	<string>Japan</string>
+	<key>KE+254</key>
+	<string>Kenya</string>
+	<key>KG+996</key>
+	<string>Kyrgyzstan</string>
+	<key>KH+855</key>
+	<string>Cambodia</string>
+	<key>KI+686</key>
+	<string>Kiribati</string>
+	<key>KM+269</key>
+	<string>Comoros</string>
+	<key>KN+1869</key>
+	<string>Saint Kitts &amp; Nevis</string>
+	<key>KP+850</key>
+	<string>North Korea</string>
+	<key>KR+82</key>
+	<string>South Korea</string>
+	<key>KW+965</key>
+	<string>Kuwait</string>
+	<key>KY+1345</key>
+	<string>Cayman Islands</string>
+	<key>KZ+7</key>
+	<string>Kazakhstan</string>
+	<key>LA+856</key>
+	<string>Laos</string>
+	<key>LB+961</key>
+	<string>Lebanon</string>
+	<key>LC+1758</key>
+	<string>Saint Lucia</string>
+	<key>LI+423</key>
+	<string>Liechtenstein</string>
+	<key>LK+94</key>
+	<string>Sri Lanka</string>
+	<key>LR+231</key>
+	<string>Liberia</string>
+	<key>LS+266</key>
+	<string>Lesotho</string>
+	<key>LT+370</key>
+	<string>Lithuania</string>
+	<key>LU+352</key>
+	<string>Luxembourg</string>
+	<key>LV+371</key>
+	<string>Latvia</string>
+	<key>LY+218</key>
+	<string>Libya</string>
+	<key>MA+212</key>
+	<string>Morocco</string>
+	<key>MC+377</key>
+	<string>Monaco</string>
+	<key>MD+373</key>
+	<string>Moldova</string>
+	<key>ME+382</key>
+	<string>Montenegro</string>
+	<key>MF+596</key>
+	<string>Saint Martin</string>
+	<key>MG+261</key>
+	<string>Madagascar</string>
+	<key>MH+692</key>
+	<string>Marshall Islands</string>
+	<key>MK+389</key>
+	<string>Macedonia</string>
+	<key>ML+223</key>
+	<string>Mali</string>
+	<key>MM+95</key>
+	<string>Myanmar </string>
+	<key>MN+976</key>
+	<string>Mongolia</string>
+	<key>MO+853</key>
+	<string>Macau</string>
+	<key>MP+670</key>
+	<string>Northern Mariana Islands</string>
+	<key>MQ+596</key>
+	<string>Martinique</string>
+	<key>MR+222</key>
+	<string>Mauritania</string>
+	<key>MS+1664</key>
+	<string>Montserrat</string>
+	<key>MT+356</key>
+	<string>Malta</string>
+	<key>MU+230</key>
+	<string>Mauritius</string>
+	<key>MV+960</key>
+	<string>Maldives</string>
+	<key>MW+265</key>
+	<string>Malawi</string>
+	<key>MX+52</key>
+	<string>Mexico</string>
+	<key>MY+60</key>
+	<string>Malaysia</string>
+	<key>MZ+258</key>
+	<string>Mozambique</string>
+	<key>NA+264</key>
+	<string>Namibia</string>
+	<key>NC+687</key>
+	<string>New Caledonia</string>
+	<key>NE+227</key>
+	<string>Niger</string>
+	<key>NF+672</key>
+	<string>Norfolk Island</string>
+	<key>NG+234</key>
+	<string>Nigeria</string>
+	<key>NI+505</key>
+	<string>Nicaragua</string>
+	<key>NL+599</key>
+	<string>Netherlands</string>
+	<key>NO+47</key>
+	<string>Norway</string>
+	<key>NP+977</key>
+	<string>Nepal</string>
+	<key>NR+674</key>
+	<string>Nauru</string>
+	<key>NU+683</key>
+	<string>Niue</string>
+	<key>NZ+64</key>
+	<string>New Zealand</string>
+	<key>OM+968</key>
+	<string>Oman</string>
+	<key>PA+507</key>
+	<string>Panama</string>
+	<key>PE+51</key>
+	<string>Peru</string>
+	<key>PF+689</key>
+	<string>Tahiti (French Polinesia)</string>
+	<key>PG+675</key>
+	<string>Papua New Guinea</string>
+	<key>PH+63</key>
+	<string>Philippines</string>
+	<key>PK+92</key>
+	<string>Pakistan</string>
+	<key>PL+48</key>
+	<string>Poland</string>
+	<key>PM+508</key>
+	<string>Saint Pierre and Miquelon</string>
+	<key>PN+872</key>
+	<string>Pitcairn</string>
+	<key>PR+1-787</key>
+	<string>Puerto Rico</string>
+	<key>PS+970</key>
+	<string>Palestinian</string>
+	<key>PT+351</key>
+	<string>Portugal</string>
+	<key>PW+680</key>
+	<string>Palau</string>
+	<key>PY+595</key>
+	<string>Paraguay</string>
+	<key>QA+974</key>
+	<string>Qatar</string>
+	<key>RE+262</key>
+	<string>Reunion</string>
+	<key>RO+40</key>
+	<string>Romania</string>
+	<key>RS+381</key>
+	<string>Serbia</string>
+	<key>RU+7</key>
+	<string>Russian Federation</string>
+	<key>RW+250</key>
+	<string>Rwanda</string>
+	<key>SA+966</key>
+	<string>Saudi Arabia</string>
+	<key>SB+677</key>
+	<string>Solomon Islands</string>
+	<key>SC+248</key>
+	<string>Seychelles</string>
+	<key>SD+249</key>
+	<string>Sudan</string>
+	<key>SS+211</key>
+	<string>South Sudan</string>
+	<key>SE+46</key>
+	<string>Sweden</string>
+	<key>SG+65</key>
+	<string>Singapore</string>
+	<key>SH+290</key>
+	<string>Saint Helena</string>
+	<key>SI+386</key>
+	<string>Slovenia</string>
+	<key>SJ+47</key>
+	<string>Svalbard and Jan Mayen Islands</string>
+	<key>SK+421</key>
+	<string>Slovak Republic</string>
+	<key>SL+232</key>
+	<string>Sierra Leone</string>
+	<key>SM+378</key>
+	<string>San Marino</string>
+	<key>SN+221</key>
+	<string>Senegal</string>
+	<key>SO+252</key>
+	<string>Somalia</string>
+	<key>SR+597</key>
+	<string>Suriname</string>
+	<key>ST+239</key>
+	<string>Sao Tome &amp; Principe</string>
+	<key>SV+503</key>
+	<string>El Salvador</string>
+	<key>SY+963</key>
+	<string>Syria</string>
+	<key>SZ+268</key>
+	<string>Swaziland</string>
+	<key>TC+1649</key>
+	<string>Turks and Caicos Islands</string>
+	<key>TD+235</key>
+	<string>Chad</string>
+	<key>TF+262</key>
+	<string>French Southern Territories</string>
+	<key>TG+228</key>
+	<string>Togo</string>
+	<key>TH+66</key>
+	<string>Thailand</string>
+	<key>TJ+992</key>
+	<string>Tajikistan</string>
+	<key>TK+690</key>
+	<string>Tokelau</string>
+	<key>TM+993</key>
+	<string>Turkmenistan</string>
+	<key>TN+216</key>
+	<string>Tunisia</string>
+	<key>TO+676</key>
+	<string>Tonga</string>
+	<key>TL+670</key>
+	<string>East Timor</string>
+	<key>TR+90</key>
+	<string>Turkey</string>
+	<key>TT+1868</key>
+	<string>Trinidad &amp; Tobago</string>
+	<key>TV+688</key>
+	<string>Tuvalu</string>
+	<key>TW+886</key>
+	<string>Taiwan</string>
+	<key>TZ+255</key>
+	<string>Tanzania</string>
+	<key>UA+380</key>
+	<string>Ukraine</string>
+	<key>UG+256</key>
+	<string>Uganda</string>
+	<key>US+1</key>
+	<string>United States</string>
+	<key>UY+598</key>
+	<string>Uruguay</string>
+	<key>UZ+998</key>
+	<string>Uzbekistan</string>
+	<key>VA+39</key>
+	<string>Vatican City</string>
+	<key>VC+1784</key>
+	<string>Saint Vincent &amp; the Grenadines</string>
+	<key>VE+58</key>
+	<string>Venezuela</string>
+	<key>VG+1284</key>
+	<string>British Virgin Islands</string>
+	<key>VI+1340</key>
+	<string>Virgin Islands</string>
+	<key>VN+84</key>
+	<string>Viet Nam</string>
+	<key>VU+678</key>
+	<string>Vanuatu</string>
+	<key>WF+681</key>
+	<string>Wallis and Futuna</string>
+	<key>WS+685</key>
+	<string>Samoa</string>
+	<key>XK+381</key>
+	<string>Kosovo</string>
+	<key>YE+967</key>
+	<string>Yemen</string>
+	<key>YT+262</key>
+	<string>Mayotte</string>
+	<key>YU+382</key>
+	<string>Serbia and Montenegro</string>
+	<key>ZA+27</key>
+	<string>South Africa</string>
+	<key>ZM+260</key>
+	<string>Zambia</string>
+	<key>ZW+263</key>
+	<string>Zimbabwe</string>
+</dict>
+</plist>
